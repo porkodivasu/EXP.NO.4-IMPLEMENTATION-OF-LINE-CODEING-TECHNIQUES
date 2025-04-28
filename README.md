@@ -38,6 +38,7 @@ TABLE
 
 OUTPUT GRAPHS
 
+![line code](https://github.com/user-attachments/assets/baadbe4f-ba57-42a0-afc6-c33c07e498d2)
 
 RESULT
 Thus, the Implementation of line coding technique is successful.
